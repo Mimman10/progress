@@ -14,3 +14,4 @@
 | 18.11.2025 | 1 | Authentication – Password Reset Broken Logic  | Lab completed |
 | 18.11.2025 | 1 | Access Control – Unprotected Admin Panel  | Lab completed |
 | 18.11.2025 | 1.5 | Access Control – User Role Modification  | Lab completed |
+| 18.11.2025 | 7 | The Booking system project → Phase 1 → Part 1  | completed |
