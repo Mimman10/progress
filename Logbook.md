@@ -14,4 +14,10 @@
 | 18.11.2025 | 1 | Authentication – Password Reset Broken Logic  | Lab completed |
 | 18.11.2025 | 1 | Access Control – Unprotected Admin Panel  | Lab completed |
 | 18.11.2025 | 1.5 | Access Control – User Role Modification  | Lab completed |
-| 18.11.2025 | 7 | The Booking system project → Phase 1 → Part 1  | completed |
+| 27.11.2025 | 7 | The Booking system project → Phase 1 → Part 1  | completed |
+| 02.12.2025 | 3 | Phase 1 → Part 2 setup  | Environment deployed successfully |
+| 02.12.2025 | 2 | Manual testing (Round 2)  | All 5 tests repeated and documented |
+| 02.12.2025 | 1 | ZAP scan Round 2  | ZAP report generated |
+| 02.12.2025 | 1 | Fix verification  | Checked and compared findings |
+| 02.12.2025 | 1.5 | Discussion post  | Findings summary prepared |
+| 02.12.2025 | 0.5 | Git update  | Repo updated with all files |
